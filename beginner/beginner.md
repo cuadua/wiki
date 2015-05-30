@@ -1,56 +1,10 @@
 # Hướng dẫn cho người mới dùng Ubuntu #
 
-*Lưu ý: Tài liệu này đã cũ và chỉ nhằm mục đích tham khảo*
+*Lưu ý: Tài liệu này đã cũ và cần được [cập nhật](/beginner/contribute.md) cho những bản Ubuntu mới nhất*
 
 Tài liệu này dành cho những người muốn bắt đầu dùng Ubuntu, hướng dẫn một cách cơ bản để bạn có thể cài đặt và làm quen với Ubuntu nhanh chóng và dễ dàng.
-Mục lục [ẩn]
 
-    1 Giới thiệu về Ubuntu
-    2 Cài đặt Ubuntu
-        2.1 Những khâu chuẩn bị
-            2.1.1 Nhận diện phần cứng
-            2.1.2 Lựa chọn phiên bản cài đặt
-            2.1.3 Chuẩn bị tập tin cài đặt Ubuntu
-                2.1.3.1 Tải Ubuntu
-                2.1.3.2 Kiểm tra tập tin cài đặt Ubuntu
-            2.1.4 Sơ lược về các cách cài đặt
-            2.1.5 Phân vùng ổ cứng
-                2.1.5.1 Vài điều cần biết
-                2.1.5.2 Hướng dẫn phân vùng ổ cứng
-                    2.1.5.2.1 Sơ lược về Hệ thống tập tin (File System hay fs) của Ubuntu
-                    2.1.5.2.2 Sử dụng GParted
-        2.2 Cài đặt
-            2.2.1 Cài đặt bằng đĩa quang (CD/DVD)
-            2.2.2 Cài đặt bằng USB boot
-                2.2.2.1 Chuẩn bị
-                2.2.2.2 Tạo ổ Ubuntu Live USB flash disk
-                2.2.2.3 Cài đặt Ubuntu lên đĩa cứng
-            2.2.3 Cài đặt bằng files iso từ ổ cứng qua GRUB4DOS
-                2.2.3.1 Ưu điểm
-                2.2.3.2 Nhược điểm
-                2.2.3.3 Cách thực hiện
-            2.2.4 Cài đặt bằng Wubi
-                2.2.4.1 Chuẩn bị
-                2.2.4.2 Tiến hành
-            2.2.5 Các cách cài đặt khác
-                2.2.5.1 Cài đặt bằng alternateCD
-                2.2.5.2 Cài đặt cho những phiên bản cũ hơn
-        2.3 Những rắc rối thường gặp
-    3 Sử dụng Ubuntu cơ bản
-        3.1 Terminal
-            3.1.1 Khởi độngTerminal
-        3.2 Các tập lệnh
-            3.2.1 sudo
-            3.2.2 Một số lệnh cơ bản
-        3.3 Ubuntu Software Center
-        3.4 Synaptics Package Manager và Software Sources
-            3.4.1 Synaptics Package Manager
-            3.4.2 Software Sources
-        3.5 Làm cho Ubuntu hoàn hảo hơn
-    4 Những câu hỏi thường gặp
-    5 Tài liệu tham khảo
-
-Giới thiệu về Ubuntu
+## 1. Giới thiệu về Ubuntu ##
 
 Hệ điều hành là phần thiết yếu nhất của hệ thống phần mềm trên một hệ thống máy tính. Hệ điều hành là một bộ các phần mềm chịu trách nhiệm quản lý tài nguyên phần cứng và cung cấp các dịch vụ ở mức cơ bản cho các phần mềm khác để chúng có thể hoạt động và thực hiện chức năng. Nhân là một bộ phận cấu tạo nên hệ điều hành, chịu trách nhiệm quản lý phần cứng ở mức sâu nhất, chạy các tiến trình, v.v...
 Cài đặt Ubuntu
